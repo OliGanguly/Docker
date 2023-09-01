@@ -6,7 +6,7 @@ or DockerHub (Public Repo)
 ## Before Docker - App Development
 + Before container developer had to install all the services on there machine and depending upon the OS , installation was diff
 + Many steps where something could go wrong
-## After Cionatiner
+## After Container
 + No need to install in ur Os
 + Own isolated env
 + packed with all needed configuration when bundle up code
@@ -32,10 +32,13 @@ Layers of Imagess / Linux Based
 install docker.io
 docker ps
 docker pull postgres version
+
 ```
 
 ## Docker Image
 actual package that is moveable
+
+
 ## Docker Container
 when pull it in my local machine and start it / Running
 

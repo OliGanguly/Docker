@@ -18,6 +18,12 @@ or DockerHub (Public Repo)
   Dependency version conflict
   Misunderstanding leads major issuee
   ```  
-
+## After Docker App Deployment
++ Developer and operations working together as whole team to package application
++ So Container has its own env , so No env configuration needed on server
+  ```bash
+  Run a Docker Command That pulls container image that u stored in dockerHub / somewhere in repo
+  Run it
+  ```    
 
 

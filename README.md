@@ -24,6 +24,21 @@ or DockerHub (Public Repo)
   ```bash
   Run a Docker Command That pulls container image that u stored in dockerHub / somewhere in repo
   Run it
-  ```    
+  ```
+## Container
+Layers of Imagess / Linux Based
+
+```bash
+install docker.io
+docker ps
+docker pull postgres version
+```
+
+## Docker Image
+actual package that is moveable
+## Docker Container
+when pull it in my local machine and start it / Running
+
+
 
 

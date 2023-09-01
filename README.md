@@ -7,11 +7,17 @@ or DockerHub (Public Repo)
 + Before container developer had to install all the services on there machine and depending upon the OS , installation was diff
 + Many steps where something could go wrong
 ## After Cionatiner
-+ No need to install
++ No need to install in ur Os
 + Own isolated env
 + packed with all needed configuration when bundle up code
 ## Before Docker App Deployment
-+ 
++ Development team produce artifact / Set of instractions how to install artifacts on the server , Like a jar file and send this to operations team
++ Operation team will handle setting up env
+  ```bash
+  Configuration on server needed
+  Dependency version conflict
+  Misunderstanding leads major issuee
+  ```  
 
 
 
